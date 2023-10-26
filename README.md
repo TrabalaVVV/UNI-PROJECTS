@@ -38,7 +38,7 @@ This notebook demonstrates a basic wrapper for a PostgreSQL database. A snippet 
 
 ## Text tokenization and Sentiment Analysis
 
-<b> Dataset:</b> A scrape done by a third-party ([Fanpage Karma](https://www.fanpagekarma.com/)) of 2,000 US theme park Facebook posts (e.g. reactions, comments, shares).
+<b> Dataset:</b> A scrape done by a third-party ([Fanpage Karma](https://www.fanpagekarma.com/)) of 2,000 US theme park Facebook posts (e.g. post description, reactions, comments, shares).
 
 The description text of these FB posts is then cleaned, tokenized and sorted into different types of posts depending on keywords. These types of posts are the subsquently compared with each other and otherwise used for analysis of user sentiment.
 
