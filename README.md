@@ -1,7 +1,7 @@
 # <b>UNI-PROJECTS</b> Viktor Varga 
 This repository contains every code file for each project I have been a part of during my studies in the <b>University of Applied Science</b> in Amsterdam. 
 As a part of the <b>Digital Driven Business</b> programmme we were tasked to transform/ analyze/ utilize datasets for a wide array of purposes. Ranging from simple analyses and visualization to building a recommender system. 
-In this way I aim to represent my ability for conduct robust research for marketing purposes utilizing either or a combination of the techniques demonstrated in the files.
+In this way I aim to represent my ability to conduct robust research for marketing purposes utilizing either or a combination of the techniques demonstrated in the files.
 
 <i>Each of the folders and their contents are described and disected below:</i>
 
