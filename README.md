@@ -47,3 +47,6 @@ The description text of these FB posts is then cleaned, tokenized and sorted int
 <b> Target of scraping:</b> Amazon.com and metacritic.com
 
 In this project, working with a group of 4 students, we were tasked with programming a spider to scrape product listing information about videogames on metacritic.com and Amazon.com. Focusing on metacrtic, I was able to scrape all relevant information on thousands of game titles using the Beatiful soup4 package (See "BS4_Scraper_Metacritic") . Additionally the scraper of my colleagues for Amazon is also included.
+
+
+<i> Note: Parts of the code found in the above files were written by fellow students of mine, they are credited via comments above/next to the code section in question.</i> 
