@@ -30,7 +30,7 @@ In this notebook you can observe the result of collaboration of 4 students, each
 Each student was to choose one algorithm; I was in charge of working on Random Forest and KNN was an extra effort to achieve bonus points for the assignment (See "Project12_RF_KNN"). 
 However, I am familiar with the other Algorithms as well.
 
-## SQL Databse Python wrapper
+## SQL Database Python wrapper
 
 <b> Dataset:</b> Metacritic movie dataset (provided by University)
 
